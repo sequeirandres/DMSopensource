@@ -10,3 +10,7 @@
 [Kimios](https://www.kimios.com/)
 ### 5.- Alfresco Community Edition (30 dias de prueba)
 [Alfresco CE](https://www.alfresco.com/es/)
+### 6.- Papermerge Comunity Edition (21 dias free)
+[PaperMerge](https://www.papermerge.com/)
+
+
