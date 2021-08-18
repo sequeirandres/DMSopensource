@@ -12,5 +12,6 @@
 [Alfresco CE](https://www.alfresco.com/es/)
 ### 6.- Papermerge Comunity Edition (21 dias free)
 [PaperMerge](https://www.papermerge.com/)
-
+### 7.- Odoo
+[odoo](https://www.odoo.com)
 
