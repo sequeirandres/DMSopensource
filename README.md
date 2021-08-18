@@ -9,4 +9,4 @@
 ### 4.- Kimios (14 dias de prueba)
 [Kimios](https://www.kimios.com/)
 ### 5.- Alfresco Community Edition (30 dias de prueba)
-[page](https://www.alfresco.com/es/)
+[Alfresco CE](https://www.alfresco.com/es/)
