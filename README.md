@@ -4,8 +4,8 @@
 ### 2.- LogicalDoc Community Edition
 [LogicalDoc](https://www.logicaldoc.es/es/download-logicaldoc-community)
 ### 3.- Maya EDMS
-[Mayan EDMS](https://www.mayan-edms.com/) \newline
-[Download](https://www.mayan-edms.com/download/)
+-[Mayan EDMS](https://www.mayan-edms.com/) 
+-[Download](https://www.mayan-edms.com/download/)
 ### 4.- Kimios
 [Kimios] (https://www.kimios.com/)
 
